@@ -1,5 +1,4 @@
 % Grassi Marco 829664
-% Frigati Francesco 829817
 
 %translates File into machine code,
 %creates an initial state where this translation + padding
