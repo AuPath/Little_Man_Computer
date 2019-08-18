@@ -16,3 +16,7 @@ Ogni cella di memoria identificata dal program counter del lmc viene
 decodificata nell' istruzione corretta e poi eseguita.
 Se il file assembly è logicamente corretto (a seconda del programma che si vuole implementare)
 il risultato dell'esecuzione sarà l'output generato secondo questo.
+
+
+## PS:
+Se stai guardando questo progetto con l'intento di copiare evita perchè sicuro ti beccano.
