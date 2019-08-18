@@ -1,5 +1,4 @@
 % Grassi Marco 829664
-% Frigati Francesco 829817
 
 translate_instruction("ADD",100).
 translate_instruction("SUB",200).
